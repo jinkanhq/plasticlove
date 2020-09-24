@@ -1,6 +1,6 @@
 using System;
 
-namespace guestbook_dotnetcore
+namespace plasticlove
 {
     public class WeatherForecast
     {

@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace guestbook_dotnetcore
+namespace plasticlove
 {
     public class Program
     {
