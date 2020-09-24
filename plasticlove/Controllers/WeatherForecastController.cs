@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace guestbook_dotnetcore.Controllers
+namespace plasticlove.Controllers
 {
     [ApiController]
     [Route("[controller]")]
